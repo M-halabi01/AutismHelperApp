@@ -182,7 +182,7 @@ class _HomePageState extends State<HomePage> {
             ScaffoldMessenger.of(context).hideCurrentMaterialBanner();
             Navigator.of(context).push(MaterialPageRoute(
                 fullscreenDialog: true,
-                builder: (context) =>  const PuzzleGames()));
+                builder: (context) => const PuzzleGames()));
           } else if (result == 3) {
             _confirmSignOut();
           }
@@ -261,6 +261,7 @@ class _HomePageState extends State<HomePage> {
     Future speak() async {
       await flutterTts.speak(translator.sentence);
     }
+
     // ignore: use_build_context_synchronously
     ScaffoldMessenger.of(context).showMaterialBanner(MaterialBanner(
       onVisible: () {
