@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "947247240474",
+    "project_id": "autismhelperdatabase",
+    "storage_bucket": "autismhelperdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947247240474:android:9f0d3b58e41e1f550cc8a3",
+        "android_client_info": {
+          "package_name": "com.square.autism_helper_project.autism_helper_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947247240474-0rbvtlno1u6katut51eabfhkkpclfei7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqwuXHA_e6JjC-JdaT5XAVaURL9fHwmJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947247240474-0rbvtlno1u6katut51eabfhkkpclfei7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "947247240474-7ba1u6vut57a4pn1rqdtkrs89g2mh5gs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.square.autismhelperproject.autismHelperProject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947247240474:android:41dc371e8e7e984c0cc8a3",
+        "android_client_info": {
+          "package_name": "com.square.autismhelperproject.autismHelperProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947247240474-0rbvtlno1u6katut51eabfhkkpclfei7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqwuXHA_e6JjC-JdaT5XAVaURL9fHwmJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947247240474-0rbvtlno1u6katut51eabfhkkpclfei7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "947247240474-7ba1u6vut57a4pn1rqdtkrs89g2mh5gs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.square.autismhelperproject.autismHelperProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
